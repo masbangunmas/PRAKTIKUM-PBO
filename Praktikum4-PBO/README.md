@@ -24,8 +24,8 @@ PBO_prak_4/
 
 ## Prasyarat
 
-- **JDK 8 atau lebih baru** (cek dengan `java -version` dan `javac -version`).
-- Terminal/command prompt, atau IDE Java seperti NetBeans, IntelliJ IDEA, atau Eclipse.
+- **JDK 8 atau lebih baru**.
+- Terminal/command prompt, atau IDE Java seperti NetBeans.
 - Ketiga file berada dalam satu folder bernama `PBO_prak_4`, sesuai deklarasi `package PBO_prak_4;` di setiap file.
 
 ## Kode dan Penjelasan
