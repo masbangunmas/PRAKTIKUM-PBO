@@ -36,7 +36,7 @@ Mengelola kumpulan objek `AsetIT`.
 - **`tampilkanSemuaAset()`:** menampilkan seluruh aset menggunakan perulangan *for-each*.
 - **`hapusAset(String idAset)`:** mencari aset berdasarkan ID menggunakan `Iterator`, lalu menghapusnya dengan `iterator.remove()`. Jika ID tidak ditemukan, program menampilkan pesan peringatan.
 
-> `Iterator` dipakai untuk menghapus karena menghapus elemen dari list lewat `for-each` akan menimbulkan `ConcurrentModificationException`.
+`Iterator` digunakan untuk menghapus karena menghapus elemen dari list lewat `for-each` akan menimbulkan `ConcurrentModificationException`.
 
 ### 3. `MainAset`
 Berisi method `main` yang menjalankan skenario berikut:
