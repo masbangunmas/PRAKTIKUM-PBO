@@ -1,5 +1,5 @@
 
-package PBO_prak_5;
+package PBO_prak_4;
 
 public class MainAset {
 
