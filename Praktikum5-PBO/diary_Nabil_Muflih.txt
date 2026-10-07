@@ -1,0 +1,4 @@
+[12-09-2026] - Hari ini saya mempelajari cara menulis data ke file.
+[13-09-2026] - Hari ini saya mempelajari cara membaca data dari file.
+[12-09-2026] - Hari ini saya mempelajari cara menulis data ke file.
+[13-09-2026] - Hari ini saya mempelajari cara membaca data dari file.
